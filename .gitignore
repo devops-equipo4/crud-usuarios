@@ -1,0 +1,5 @@
+/test
+.idea
+*.a
+*.log
+*.class
