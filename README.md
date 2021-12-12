@@ -4,7 +4,7 @@ CRUD Usuarios (Ejercicio9+) Equipo 4 DevOps USACH
 ## Enlaces de Interés
 - Atlassian, tablero [JIRA](https://luis-mella.atlassian.net/jira/software/projects/DDS/boards/2) del proyecto.
 - Confluence, TBR
-- 
+- Moodle, [enlace](https://pfcusach.activemoodle.com/course/view.php?id=19) al curso DevOps
 
 ## Equipo de trabajo
 
