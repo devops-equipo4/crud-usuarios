@@ -16,3 +16,8 @@ CRUD Usuarios (Ejercicio9+) Equipo 4 DevOps USACH
 | Tester QA     | Front End     | Néstor Fuenzalida |
 | Tester QA     | Back End      | Luis Mella        |
 | Líder Técnico |               | Patricio Canelo   |
+
+## Tecnologías
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
