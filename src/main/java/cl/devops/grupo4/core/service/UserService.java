@@ -20,4 +20,10 @@ public class UserService {
 
     }
 
+    public ResponseEntity<?> delete(UserData userData) {
+        userRepository.save(new User(userData));
+        return new ResponseEntity("", HttpStatus.CREATED);
+
+    }
+
 }
