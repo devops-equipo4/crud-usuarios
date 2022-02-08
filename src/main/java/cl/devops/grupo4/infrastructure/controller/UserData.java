@@ -14,4 +14,5 @@ public class UserData {
     private String email;
     private String pass;
     private String rut;
+    private int phone;
 }
